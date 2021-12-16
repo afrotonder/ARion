@@ -1,0 +1,7 @@
+{
+  "name": "ion-AR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
